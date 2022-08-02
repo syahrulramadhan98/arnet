@@ -1,6 +1,6 @@
 export default function CardMarket(){
     return(
-            <div className="antialiased w-full h-full bg-gradient-to-br from-green-50 to-cyan-100 text-gray-400 font-inter p-10">
+            <div className="antialiased w-full h-full bg-gradient-to-r from-gray-100 via-[#bce1ff] to-gray-100 font-inter p-10">
             <div className="container px-4 mx-auto">
                 <div>
                 <div id="title" className="text-center my-16">
@@ -34,7 +34,7 @@ export default function CardMarket(){
                             <li>Subdomain included</li>
                         </ul>
                         <div id="choose" className="w-full mt-10 px-6">
-                            <a href="#" className="w-full block bg-gray-900 font-medium text-xl py-4 rounded-xl hover:shadow-lg transition duration-200 ease-in-out hover:bg-indigo-600 hover:text-white">Choose</a>
+                            <a href="#" className="w-full block bg-gray-900 text-white font-medium text-xl py-4 rounded-xl hover:shadow-lg transition duration-200 ease-in-out hover:bg-indigo-600 hover:text-white">Choose</a>
                         </div>
                         </div>
                     </div>
@@ -63,7 +63,7 @@ export default function CardMarket(){
                             <li>Domain included</li>
                         </ul>
                         <div id="choose" className="w-full mt-10 px-6">
-                            <a href="#" className="w-full block bg-gray-900 font-medium text-xl py-4 rounded-xl hover:shadow-lg transition duration-200 ease-in-out hover:bg-indigo-600 hover:text-white">Choose</a>
+                            <a href="#" className="w-full block bg-gray-900 text-white font-medium text-xl py-4 rounded-xl hover:shadow-lg transition duration-200 ease-in-out hover:bg-indigo-600 hover:text-white">Choose</a>
                         </div>
                         </div>
                     </div>
@@ -92,7 +92,7 @@ export default function CardMarket(){
                             <li>Domain included</li>
                         </ul>
                         <div id="choose" className="w-full mt-10 px-6">
-                            <a href="#" className="w-full block bg-gray-900 font-medium text-xl py-4 rounded-xl hover:shadow-lg transition duration-200 ease-in-out hover:bg-indigo-600 hover:text-white">Choose</a>
+                            <a href="#" className="w-full block bg-gray-900 text-white font-medium text-xl py-4 rounded-xl hover:shadow-lg transition duration-200 ease-in-out hover:bg-indigo-600 hover:text-white">Choose</a>
                         </div>
                         </div>
                     </div>

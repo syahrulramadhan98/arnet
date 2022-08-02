@@ -1,10 +1,10 @@
 export default function CardService(){
     return(
-        <section className="bg-gradient-to-br from-green-50 to-cyan-100 dark:bg-gray-800">
+        <section className="bg-gradient-to-r from-gray-100 via-[#bce1ff] to-gray-100 dark:bg-gray-800">
             <div className="py-8 px-4 mx-auto max-w-screen-xl sm:py-16 lg:px-6">
                 <div className="max-w-screen-md my-16 mb-8 lg:mb-16">
-                <h2 className="mb-4 text-4xl font-extrabold text-gray-900 dark:text-white">Designed for business teams like yours</h2>
-                <p className="text-gray-500 sm:text-xl dark:text-gray-400">Here at Flowbite we focus on markets where technology, innovation, and capital can unlock long-term value and drive economic growth.</p>
+                <h2 className="mb-4 text-4xl font-extrabold text-gray-900 dark:text-white">Keunggulan Service Kami</h2>
+                <p className="text-gray-500 sm:text-xl dark:text-gray-400">Keunggulan Service yang kami berikan ada beberapa macam seperti :</p>
                 </div>
                 <div className="space-y-8 md:grid md:grid-cols-2 lg:grid-cols-3 md:gap-12 md:space-y-0">
                 <div>
